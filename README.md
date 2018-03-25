@@ -2,7 +2,7 @@
 
 Setup instructions for administrators and/or instructors who will deploy the OpenStack environment at their institutions and make sure the environment is configured properly so that students can carry out the various possible lab tasks. 
 
-Sample lab tasks are given in the "sample-labs" repository. The sample labs are to be given to students once the OpenStack environment is deployed and configured properly. Not all lab tasks will require all the different OpenStack configuration options. Each lab task listed in "sample-labs" repository provides a list of "prerequisite" configuration options, required OpenStack images to be available to students, and any special instructions such as keeping students off public Internet by restricting their access to OpenStack internal network only.
+Sample lab tasks are given in the "[sample-labs"](https://github.com/citil/sample-labs) repository. The sample labs are to be given to students once the OpenStack environment is deployed and configured properly. Not all lab tasks will require all the different OpenStack configuration options. Each lab task listed in "[sample-labs"](https://github.com/citil/sample-labs) repository provides a list of "prerequisite" configuration options, required OpenStack images to be available to students, and any special instructions such as keeping students off public Internet by restricting their access to OpenStack internal network only.
 
 # Basic Setup Instructions for the OpenStack Environment
 
