@@ -9,7 +9,7 @@ Sample lab tasks are given in the "[sample-labs"](https://github.com/citil/sampl
 **OpenStack** can be deployed using a few different options. The best guidance is available at https://docs.openstack.org/. At the OpenStack docs site, you may either choose to try installing everything manually by following the *Installation Guides* suitable for your environment or use automation tools such as *Ansible* to deploy a production OpenStack environment. Of course it is highly recommended to first plan your environment and read through the various guides for deployers, administrators, and users available at the above URL.
 
 ## Installation Instructions for Setting up a Proof-of-concept Demo Environment
-Please see [the following setup instructions] (https://github.com/citil/setup-instructions-admins-instructors/OpenStack Demo Environment setup tutorials.pdf) for a working proof-of-concept setup. You could use it in conjunction with https://docs.openstack.org/install-guide/ to try setting up a "non-production" OpenStack environment.
+Please see [the following setup instructions] (https://github.com/citil/setup-instructions-admins-instructors/OpenStack-Demo-Environment setup-tutorials.pdf) for a working proof-of-concept setup. You could use it in conjunction with https://docs.openstack.org/install-guide/ to try setting up a "non-production" OpenStack environment.
 
 # Specific Configuration Instructions for IoT Lab Tasks
 
